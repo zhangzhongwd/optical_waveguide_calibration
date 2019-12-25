@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/src.dir/sriforcesensor.cpp.o CMakeFiles/src.dir/talker.cpp.o CMakeFiles/src.dir/TCPClient.cpp.o CMakeFiles/src.dir/TCPServer.cpp.o  -o src 

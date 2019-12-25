@@ -1,0 +1,8 @@
+prefix=/home/zhong/Sensor/devel
+
+Name: sensor_arduino
+Description: Description of sensor_arduino
+Version: 0.0.0
+Cflags: -I/home/zhong/Sensor/devel/include
+Libs: -L/home/zhong/Sensor/devel/lib 
+Requires: message_runtime

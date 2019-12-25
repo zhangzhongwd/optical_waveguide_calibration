@@ -1,0 +1,3 @@
+int16 stepper_number
+bool stepper_direction
+int16 stepper_count

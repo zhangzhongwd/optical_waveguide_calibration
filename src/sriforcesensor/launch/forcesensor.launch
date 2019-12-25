@@ -1,0 +1,3 @@
+<launch>
+<node name="Force_Torque" pkg="sriforcesensor" type="forcesensor" output="screen"/>
+</launch>

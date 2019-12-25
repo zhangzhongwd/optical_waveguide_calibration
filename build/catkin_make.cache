@@ -1,0 +1,2 @@
+motor_arduino:sensor_arduino:sriforcesensor
+-DCATKIN_DEVEL_PREFIX=/home/zhong/Sensor/devel -DCMAKE_INSTALL_PREFIX=/home/zhong/Sensor/install -G Unix Makefiles

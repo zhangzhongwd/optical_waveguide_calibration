@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++0x   -shared -Wl,-soname,libTCPClient2.so -o /home/zhong/Sensor/devel/lib/libTCPClient2.so CMakeFiles/TCPClient2.dir/src/TCPClient.cpp.o 

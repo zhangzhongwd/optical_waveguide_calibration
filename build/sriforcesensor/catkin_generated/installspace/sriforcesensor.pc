@@ -1,0 +1,8 @@
+prefix=/home/zhong/Sensor/install
+
+Name: sriforcesensor
+Description: Description of sriforcesensor
+Version: 1.0.0
+Cflags: -I/home/zhong/Sensor/install/include
+Libs: -L/home/zhong/Sensor/install/lib 
+Requires: 
